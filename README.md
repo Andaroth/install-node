@@ -18,7 +18,7 @@ C'est bon ? Relance ton terminal.
 
 Ensuite tu mets NodeJS à jour comsa : `nvm install 9.2` 
 
-Okay, quand c'est fait, normalement tu as la dernière version de NodeJS ! :) 
+Okay, quand c'est fait, normalement tu as une version de NodeJS un peu plus appropriée ! :) 
 
 Le terminal devrait dire un truc comme ça : `Now using node v9.2.0 (npm v5.5.1)`
 
