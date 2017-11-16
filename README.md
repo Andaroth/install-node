@@ -10,7 +10,7 @@ Tu n'as pas ce qu'il faut, regarde pour voir :
 
 `node -v`
 
-Si tu as genre une version inférieure à 6 (par défaut tu risque d'avoir la 4), il te faut nvm pour mettre à jour nodeJS :
+Si tu as genre une version inférieure à 6 (par défaut tu risque d'avoir la 4), il te faut `nvm` pour mettre à jour nodeJS :
 
 `curl https://raw.githubusercontent.com/creationix/nvm/v0.30.2/install.sh | bash`
 
