@@ -23,4 +23,4 @@ Okay, quand c'est fait, normalement tu as une version de NodeJS un peu plus appr
 Le terminal devrait dire un truc comme ça : `Now using node v9.2.0 (npm v5.5.1)`
 
 ## Fini !
-Tu peux maintenant utiliser `npm install [nom-du-module]` pour installer des modules trop cool comme express ou react ! 
+Tu peux maintenant utiliser `npm install [nom-du-module]` pour installer des modules trop cool tels que express et vuejs ou des frameworks comme react, electron et cordova ! 
